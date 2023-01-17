@@ -1,0 +1,47 @@
+.title {
+    color:green;
+    margin-left:10%;
+}
+
+.poem{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 10px;
+    border-style:groove;
+    padding:20px;
+}
+
+body{
+    background-color:gold;
+}
+
+.list {
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 10px;
+    border-style:groove;
+    padding:20px;
+}
+.tkinter{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 10px;
+    border-style:groove;
+    padding:20px;
+    background-color:gold;
+}
+.canvas {
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 10px;
+    border-style:groove;
+    padding:20px;
+    
+}
+.converter {
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 10px;
+    border-style:groove;
+    padding:20px;
+}
